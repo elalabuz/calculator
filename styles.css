@@ -1,9 +1,9 @@
-body {background: lightgrey}
-.unicorn {border: 5px solid hotpink;
+body {background: paleturquoise}
+.unicorn {border: 5px solid black;
           padding: 10px;
-          background: rgb(241, 199, 119);}
-.princecharming {border: 2px solid ivory;
-                 background: lightpink; 
+          background: ivory;}
+.princecharming {border: 2px solid gray;
+                 background: lightgrey; 
                  padding: 12px 6px;
                  color: navy;
                  font-size: 24px;
